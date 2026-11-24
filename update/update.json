@@ -1,7 +1,7 @@
 {
- "version": "1.9.1",
- "file": "Rassylshchik-Setup-1.9.1.exe",
- "sha256": "34e104f28fddfa61fcd31fcd8d1fd1ab91eb2dc468252c60e55c04e243b34b7f",
- "size": 11555463,
- "notes": "Выгрузку Excel можно назвать как угодно"
+ "version": "1.9.2",
+ "file": "Rassylshchik-Setup-1.9.2.exe",
+ "sha256": "60c96e7fcb1acd96f5dcd846d9fffee2e5c3892c4134cdf74eea351383982f66",
+ "size": 11557048,
+ "notes": "В предпросмотре виден название письма"
 }
