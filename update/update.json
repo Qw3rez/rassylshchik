@@ -1,7 +1,7 @@
 {
- "version": "1.9.0",
- "file": "Rassylshchik-Setup-1.9.0.exe",
- "sha256": "914510c3beedd8a96d87f6622cd1728b5b7effe3066af8f3c82a77512a9952de",
- "size": 11555279,
- "notes": "Группы клиентов, обновление программы одной кнопкой"
+ "version": "1.9.1",
+ "file": "Rassylshchik-Setup-1.9.1.exe",
+ "sha256": "34e104f28fddfa61fcd31fcd8d1fd1ab91eb2dc468252c60e55c04e243b34b7f",
+ "size": 11555463,
+ "notes": "Выгрузку Excel можно назвать как угодно"
 }
